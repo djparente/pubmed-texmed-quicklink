@@ -1,4 +1,4 @@
-pubmed-texmed-quicklink
+PubMed TexMed QuickLink
 =======================
 
 PubMed-TexMed-QuickLink.js is a GreaseMonkey/TamperMonkey (Firefox/Chrome, respectively) script that
